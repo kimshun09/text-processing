@@ -1,4 +1,4 @@
-# Suggested Wikipedia
+# Suggesting Wikipedia
 
 WikipediaのテキストデータをもとにTF-IDFやWord2Vecを用いて関連記事やおすすめ記事を表示するプログラム
 
